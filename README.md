@@ -27,7 +27,8 @@
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
 ---
 Ответ:  
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](screenshot/1.1.png)
+![alt text](screenshot/1.2.png)
 
 ---
 
@@ -40,7 +41,9 @@
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*  
 ---
 Ответ:  
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](screenshot/2.1.png)
+![alt text](screenshot/2.2.png)
+![alt text](screenshot/2.3.png)
 
 ---
 
